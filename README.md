@@ -43,5 +43,4 @@ Mobile-responsive UI
 👨‍💻 Author
 
 Shivaji Shitalkar
-🔗 LinkedIn Profile
-📦 GitHub Profile
+🔗 https://www.linkedin.com/in/shivaji-shitalkar-40649a32a/
